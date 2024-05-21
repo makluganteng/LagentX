@@ -1,4 +1,4 @@
-# CAI-Protocol
+# LagentX
 Chain-agnostic verifiable data to settle cross-chain intent transactions. base on a write up from this [blog](https://mirror.xyz/0x4C296a9a056d97762e19c37c06f8c6f30132ccD2/bP3QPHyITI6wCCWldvNZckssFye8vG9Hm7V8H-7Ry6g)
 
 ## Architecture
